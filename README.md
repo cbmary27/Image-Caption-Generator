@@ -10,4 +10,21 @@ Image caption generation is a field in artificial intelligence (AI) and computer
 
 https://www.kaggle.com/datasets/dibyansudiptiman/flickr-8k
 
+# Output
+
+Comparison with other models:
+![image](https://github.com/user-attachments/assets/401ab55b-8c45-47ea-a83e-1ccb2f354e8f)
+
+Comaparison between Greedy and Beam Search:
+![image](https://github.com/user-attachments/assets/3c4f27c3-c25b-41f3-bd76-403891802c59)
+
+BLEU-1, BLEU-2 scores for Greedy and Beam Search:
+![image](https://github.com/user-attachments/assets/937338fb-e963-4802-aa72-885ea79f45a1)
+
+# Conclusion
+
+Upon comparing the results it was evident that all the encoder-decoder combinations performed well and all the approaches were able to generate appropriate and meaningful captions for the images it was tested upon. It was the VGG16 model and BiLSTM with attention combined with beam search implementation that gave the best results in terms of the evaluation metrics computed. Additionally, this model was able to recognize more elements from the image and incorporate them into the generated caption. 
+
+
+
 
