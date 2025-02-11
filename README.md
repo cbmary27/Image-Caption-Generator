@@ -4,6 +4,7 @@ Hello There! This is a project we did for our Data Mining Course.
 
 # Contents
 [Go to Introduction] (#introduction)
+<a name="introduction"></a>
 
 # Introduction
 
