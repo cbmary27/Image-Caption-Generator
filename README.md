@@ -3,7 +3,7 @@
 Hello There!
 
 # Contents
-[Go to Introduction] (#Introduction)
+[Go to Introduction] (#introduction)
 
 ## Introduction
 
