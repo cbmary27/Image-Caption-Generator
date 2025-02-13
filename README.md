@@ -1,4 +1,4 @@
-# Image-Caption-Generator
+# Image Caption Generator
 
 Hello There! This is a project we did for our Data Mining Course.
 
@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/dibyansudiptiman/flickr-8k
 # Output
 
 Comparison with other models:
-![image](https://github.com/user-attachments/assets/401ab55b-8c45-47ea-a83e-1ccb2f354e8f)
+![image](https://github.com/user-attachments/assets/401ab55b-8c45-47ea-a83e-1ccb2f354e8f) 
 
 Comaparison between Greedy and Beam Search:
 ![image](https://github.com/user-attachments/assets/3c4f27c3-c25b-41f3-bd76-403891802c59)
